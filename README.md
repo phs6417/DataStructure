@@ -2,18 +2,18 @@
 ------------------
 1.Recursion
 
-2.Sort
+2.List
 
-3.Tree
+3.Stack
 
-4.Array
+4.Queue
 
-5.Queue
+5.Tree
 
-6.Stack
+6.Sorting
 
-7.List
+7.Graph
 
-8.Graph
+8.Array
 
 9.String
