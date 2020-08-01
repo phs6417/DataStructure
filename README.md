@@ -1,6 +1,7 @@
 # DataStructure
 ------------------
 1.Recursion
+
   -Factorial
   -Fibonacci
   -Hanoi
@@ -13,7 +14,15 @@
 
 5.Tree
 
+  -BinarySearchTree
+
 6.Sorting
+
+  -Bubble
+  -selection
+  -insertion
+  -merge
+  -quick
 
 7.Graph
 
