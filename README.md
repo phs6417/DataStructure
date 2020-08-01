@@ -1,8 +1,9 @@
 # DataStructure
 ------------------
 1.Recursion
-  
-  Fibonacci
+  -Factorial
+  -Fibonacci
+  -Hanoi
 
 2.List
 
