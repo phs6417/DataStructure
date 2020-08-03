@@ -2,9 +2,9 @@
 ------------------
 1.Recursion
 
-  -Factorial
-  -Fibonacci
-  -Hanoi
+    -Factorial
+    -Fibonacci
+    -Hanoi
 
 2.List
 
@@ -14,15 +14,15 @@
 
 5.Tree
 
-  -BinarySearchTree
+    -BinarySearchTree
 
 6.Sorting
 
-  -Bubble
-  -selection
-  -insertion
-  -merge
-  -quick
+    -Bubble
+    -selection
+    -insertion
+    -merge
+    -quick
 
 7.Graph
 
