@@ -12,6 +12,10 @@
 
 4.Queue
 
+    -queue
+    -dequeue
+    -priority queue
+
 5.Tree
 
     -BinarySearchTree
@@ -23,6 +27,7 @@
     -insertion
     -merge
     -quick
+    -shell
 
 7.Graph
 
