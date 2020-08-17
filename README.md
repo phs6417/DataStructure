@@ -17,7 +17,7 @@
     -queue
     -dequeue
     -priority queue
-
+ 
 5.Tree
 
     -BinarySearchTree
