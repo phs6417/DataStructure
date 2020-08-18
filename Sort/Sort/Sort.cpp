@@ -5,7 +5,7 @@
 using namespace std;
 
 
-//¹öºí
+// ë²„ë¸”ì •ë ¬
 void bubble_sort(int array[], int n) {
 	int i, j, k, tmp;
 	for (i = n - 1; i > 0; i--) {
@@ -25,7 +25,7 @@ void bubble_sort(int array[], int n) {
 
 }
 
-//¼±ÅÃ
+// ì„ íƒì •ë ¬
 void selection_sort(int array[], int n) {
 	int i, j, k, least, tmp;
 	for (i = 0; i < n - 1; i++) {
@@ -47,7 +47,7 @@ void selection_sort(int array[], int n) {
 }
 
 
-//»ğÀÔ
+// ì‚½ì…ì •ë ¬
 void insertion_sort(int array[], int n) {
 	int i, j, k, key;
 	for (i = 1; i < n; i++) {
@@ -65,7 +65,7 @@ void insertion_sort(int array[], int n) {
 }
 
 
-//ÇÕº´
+// í•©ë³‘ì •ë ¬
 //void merge(int array[], int left, int mid, int right) {
 //	int i, j, k, l, m = 0;
 //
@@ -102,7 +102,7 @@ void insertion_sort(int array[], int n) {
 //}
 
 
-//Äü
+// 
 void sort(int*, int);
 void qsort(int*, int, int);
 void quick_sort(int array[], int N)
