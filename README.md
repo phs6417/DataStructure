@@ -8,8 +8,6 @@
 
 2.List
 
-    -linked list
-
 3.Stack
 
 4.Queue
