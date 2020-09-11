@@ -4,7 +4,7 @@
 
     -Factorial
     -Fibonacci
-    -Hanoi
+    -Hanoi 
 
 2.List
 
